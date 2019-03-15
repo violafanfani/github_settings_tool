@@ -12,7 +12,7 @@ Description
 -----------
 Tool to test how to publish a package
 we are now learning how to use read the docs
-
+and the tags
 
 .. toctree::
    :maxdepth: 2
