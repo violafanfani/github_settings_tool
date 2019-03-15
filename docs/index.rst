@@ -10,7 +10,8 @@ by Viola Fanfani (viola.fanfani@gmail.com).
 
 Description
 -----------
-tool to test how to publish a package
+Tool to test how to publish a package
+we are now learning how to use read the docs
 
 
 .. toctree::
