@@ -5,7 +5,7 @@ Introduction
 ------------
 tool to test how to publish a package
 
-Current version: 0.0.2
+Current version: 0.0.3
 
 Authors
 -------

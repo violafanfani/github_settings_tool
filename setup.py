@@ -11,7 +11,7 @@ setup(
     # package information
     name = 'github_settings_tool',
     packages = find_packages(),
-    version = '0.0.2',
+    version = '0.0.3',
     description = 'tool to test how to publish a package',
     long_description = readme,
     license = 'MIT',
